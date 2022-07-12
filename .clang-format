@@ -75,7 +75,6 @@ PPIndentWidth: 4
 PackConstructorInitializers: CurrentLine
 PointerAlignment: Right
 QualifierAlignment: Left
-QualifierOrder: ['inline', 'static', 'type', 'const', 'volatile']
 ReferenceAlignment: Left
 ReflowComments: true
 SeparateDefinitionBlocks: Always
